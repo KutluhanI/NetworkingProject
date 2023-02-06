@@ -1,4 +1,4 @@
-This is the CMP2204 - 2021 Project made by Kutluhan İslim, Atila Sürücü, Cem ...
+This is the CMP2204 - 2021 Project made by Kutluhan İslim, Atila Sürücü, Cem Demir
 
 This program is desined to download or upload chunks in peer-to-peer fashion among users. Users will broadcast the files they want to broadcast and
 they recieve.Once they recieve a file requested by them, program will automatically broadcast it to the other users. We are using port 8000 for TCP and
